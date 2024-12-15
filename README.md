@@ -1,1 +1,1 @@
-https://github.com/Mikuuulina/pioner.git
+https://github.com/Mikuuulina/pioner-fd.git
